@@ -82,4 +82,4 @@ Enter your research query in the app interface, and let the AI provide the resul
 Contributions are welcome! Feel free to fork the repository, submit issues, or create pull requests to help improve the Research Bot App.
 
 ### 📜 License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License.
